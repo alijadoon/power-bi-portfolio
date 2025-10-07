@@ -39,12 +39,12 @@ This dashboard provides a 360° view of hydrogen research activities including:
 ## 📸 Dashboard Screenshots
 
 ### Home Dashboard
-<img width="1217" height="673" alt="Home Page" src="https://github.com/user-attachments/assets/dcd66834-ee8b-4fd4-94d7-9b542100ae61" />
+<img width="1376" height="697" alt="Screenshot 2025-10-07 144656" src="https://github.com/user-attachments/assets/715a579e-f293-4a9a-bfa4-d215b190c44f" />
 
 **Overview of key metrics and navigation**
 
 ### Research Projects Section
-<img width="1217" height="673" alt="Home Page" src="https://github.com/user-attachments/assets/4dbc8641-7fd8-42d1-890f-4e130e208250" />
+<img width="1161" height="665" alt="Research Projects" src="https://github.com/user-attachments/assets/ab87f9ac-ebc9-4f53-abe9-4bd63fdcd9f6" />
 
  **Detailed project tracking and budgeting**
  
